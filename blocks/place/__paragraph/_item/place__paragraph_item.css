@@ -1,0 +1,8 @@
+.place__paragraph_item {
+  margin: 0;
+  padding-bottom: 25px;
+}
+
+.place__paragraph_item:last-child {
+  padding-bottom: 0;
+}

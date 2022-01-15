@@ -1,0 +1,14 @@
+.place__website_url {
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 2px;
+  color: #aaaaaa;
+  padding: 0 16px 12px;
+  margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .place__website_url {
+    padding: 0 0 12px;
+  }
+}
