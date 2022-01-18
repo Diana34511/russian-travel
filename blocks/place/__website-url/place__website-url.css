@@ -1,4 +1,4 @@
-.place__website_url {
+.place__website-url {
   font-size: 12px;
   line-height: 1;
   letter-spacing: 2px;
@@ -8,7 +8,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .place__website_url {
+  .place__website-url {
     padding: 0 0 12px;
   }
 }
