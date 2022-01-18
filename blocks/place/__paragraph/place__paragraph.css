@@ -6,9 +6,10 @@
 }
 
 @media screen and (min-width: 425px) {
-    .place__paragraph {
-        font-size: 18px;
-    }
+  .place__paragraph {
+    font-size: 18px;
+  }
+}
 
 @media screen and (min-width: 768px) {
   .place__paragraph {
