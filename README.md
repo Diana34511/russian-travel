@@ -16,4 +16,4 @@
 
 **GitHub**
 
-- [Ссылка на GitHub](https://github.com/Diana34511/russian-travel)
+- [Ссылка на GitHub](https://diana34511.github.io/russian-travel/)
